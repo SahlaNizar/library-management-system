@@ -1,2 +1,2 @@
-# library-management-system
-Library Management System with Reading Behavior Analytics – a web-based system for managing library operations and analyzing user reading behavior
+school-library-management-system-reading-analytics
+A web-based School Library Management System with Student Reading Behaviour Analytics for managing books, students, borrowing, returns, fines, reservations and reading patterns.
